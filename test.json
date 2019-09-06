@@ -1,0 +1,2100 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fnil\fcharset0 Menlo-Bold;}
+{\colortbl;\red255\green255\blue255;\red195\green0\blue49;\red0\green0\blue0;\red25\green32\blue40;
+\red17\green137\blue135;}
+{\*\expandedcolortbl;;\cssrgb\c81569\c6275\c25098;\cssrgb\c0\c0\c0;\cssrgb\c12941\c16863\c20784;
+\cssrgb\c0\c60000\c60000;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl260\partightenfactor0
+
+\f0\fs22\fsmilli11250 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 "orders"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 [\
+    \{\
+      \cf2 \strokec2 "id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 450789469\cf4 \strokec4 ,\
+      \cf2 \strokec2 "email"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "bob.norman@hostmail.com"\cf4 \strokec4 ,\
+      \cf2 \strokec2 "closed_at"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+      \cf2 \strokec2 "created_at"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "2008-01-10T11:00:00-05:00"\cf4 \strokec4 ,\
+      \cf2 \strokec2 "updated_at"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "2008-01-10T11:00:00-05:00"\cf4 \strokec4 ,\
+      \cf2 \strokec2 "number"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 1\cf4 \strokec4 ,\
+      \cf2 \strokec2 "note"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+      \cf2 \strokec2 "token"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "b1946ac92492d2347c6235b4d2611184"\cf4 \strokec4 ,\
+      \cf2 \strokec2 "gateway"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "authorize_net"\cf4 \strokec4 ,\
+      \cf2 \strokec2 "test"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 false\cf4 \strokec4 ,\
+      \cf2 \strokec2 "total_price"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "598.94"\cf4 \strokec4 ,\
+      \cf2 \strokec2 "subtotal_price"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "597.00"\cf4 \strokec4 ,\
+      \cf2 \strokec2 "total_weight"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 0\cf4 \strokec4 ,\
+      \cf2 \strokec2 "total_tax"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "11.94"\cf4 \strokec4 ,\
+      \cf2 \strokec2 "taxes_included"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 false\cf4 \strokec4 ,\
+      \cf2 \strokec2 "currency"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 ,\
+      \cf2 \strokec2 "financial_status"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "partially_refunded"\cf4 \strokec4 ,\
+      \cf2 \strokec2 "confirmed"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 true\cf4 \strokec4 ,\
+      \cf2 \strokec2 "total_discounts"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "10.00"\cf4 \strokec4 ,\
+      \cf2 \strokec2 "total_line_items_price"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "597.00"\cf4 \strokec4 ,\
+      \cf2 \strokec2 "cart_token"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "68778783ad298f1c80c3bafcddeea02f"\cf4 \strokec4 ,\
+      \cf2 \strokec2 "buyer_accepts_marketing"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 false\cf4 \strokec4 ,\
+      \cf2 \strokec2 "name"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "#1001"\cf4 \strokec4 ,\
+      \cf2 \strokec2 "referring_site"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "http://www.otherexample.com"\cf4 \strokec4 ,\
+      \cf2 \strokec2 "landing_site"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "http://www.example.com?source=abc"\cf4 \strokec4 ,\
+      \cf2 \strokec2 "cancelled_at"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+      \cf2 \strokec2 "cancel_reason"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+      \cf2 \strokec2 "total_price_usd"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "598.94"\cf4 \strokec4 ,\
+      \cf2 \strokec2 "checkout_token"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "bd5a8aa1ecd019dd3520ff791ee3a24c"\cf4 \strokec4 ,\
+      \cf2 \strokec2 "reference"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "fhwdgads"\cf4 \strokec4 ,\
+      \cf2 \strokec2 "user_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+      \cf2 \strokec2 "location_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+      \cf2 \strokec2 "source_identifier"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "fhwdgads"\cf4 \strokec4 ,\
+      \cf2 \strokec2 "source_url"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+      \cf2 \strokec2 "processed_at"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "2008-01-10T11:00:00-05:00"\cf4 \strokec4 ,\
+      \cf2 \strokec2 "device_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+      \cf2 \strokec2 "phone"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "+557734881234"\cf4 \strokec4 ,\
+      \cf2 \strokec2 "customer_locale"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+      \cf2 \strokec2 "app_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+      \cf2 \strokec2 "browser_ip"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "0.0.0.0"\cf4 \strokec4 ,\
+      \cf2 \strokec2 "landing_site_ref"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "abc"\cf4 \strokec4 ,\
+      \cf2 \strokec2 "order_number"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 1001\cf4 \strokec4 ,\
+      \cf2 \strokec2 "discount_applications"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 [\
+        \{\
+          \cf2 \strokec2 "type"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "discount_code"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "value"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "10.0"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "value_type"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "percentage"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "allocation_method"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "across"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "target_selection"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "all"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "target_type"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "line_item"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "TENOFF"\cf4 \strokec4 \
+        \}\
+      ],\
+      \cf2 \strokec2 "discount_codes"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 [\
+        \{\
+          \cf2 \strokec2 "code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "TENOFF"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "10.00"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "type"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "percentage"\cf4 \strokec4 \
+        \}\
+      ],\
+      \cf2 \strokec2 "note_attributes"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 [\
+        \{\
+          \cf2 \strokec2 "name"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "custom engraving"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "value"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "Happy Birthday"\cf4 \strokec4 \
+        \},\
+        \{\
+          \cf2 \strokec2 "name"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "colour"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "value"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "green"\cf4 \strokec4 \
+        \}\
+      ],\
+      \cf2 \strokec2 "payment_gateway_names"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 [\
+        \cf2 \strokec2 "bogus"\cf4 \strokec4 \
+      ],\
+      \cf2 \strokec2 "processing_method"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "direct"\cf4 \strokec4 ,\
+      \cf2 \strokec2 "checkout_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 901414060\cf4 \strokec4 ,\
+      \cf2 \strokec2 "source_name"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "web"\cf4 \strokec4 ,\
+      \cf2 \strokec2 "fulfillment_status"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+      \cf2 \strokec2 "tax_lines"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 [\
+        \{\
+          \cf2 \strokec2 "price"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "11.94"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "rate"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 0.06\cf4 \strokec4 ,\
+          \cf2 \strokec2 "title"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "State Tax"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "price_set"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+            \cf2 \strokec2 "shop_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+              \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "11.94"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+            \},\
+            \cf2 \strokec2 "presentment_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+              \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "11.94"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+            \}\
+          \}\
+        \}\
+      ],\
+      \cf2 \strokec2 "tags"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 ""\cf4 \strokec4 ,\
+      \cf2 \strokec2 "contact_email"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "bob.norman@hostmail.com"\cf4 \strokec4 ,\
+      \cf2 \strokec2 "order_status_url"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "https://apple.myshopify.com/690933842/orders/b1946ac92492d2347c6235b4d2611184/authenticate?key=5db72d171e7d36d62a8c43de63a10986"\cf4 \strokec4 ,\
+      \cf2 \strokec2 "presentment_currency"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 ,\
+      \cf2 \strokec2 "total_line_items_price_set"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+        \cf2 \strokec2 "shop_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+          \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "597.00"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+        \},\
+        \cf2 \strokec2 "presentment_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+          \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "597.00"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+        \}\
+      \},\
+      \cf2 \strokec2 "total_discounts_set"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+        \cf2 \strokec2 "shop_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+          \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "10.00"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+        \},\
+        \cf2 \strokec2 "presentment_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+          \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "10.00"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+        \}\
+      \},\
+      \cf2 \strokec2 "total_shipping_price_set"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+        \cf2 \strokec2 "shop_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+          \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "0.00"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+        \},\
+        \cf2 \strokec2 "presentment_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+          \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "0.00"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+        \}\
+      \},\
+      \cf2 \strokec2 "subtotal_price_set"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+        \cf2 \strokec2 "shop_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+          \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "597.00"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+        \},\
+        \cf2 \strokec2 "presentment_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+          \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "597.00"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+        \}\
+      \},\
+      \cf2 \strokec2 "total_price_set"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+        \cf2 \strokec2 "shop_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+          \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "598.94"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+        \},\
+        \cf2 \strokec2 "presentment_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+          \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "598.94"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+        \}\
+      \},\
+      \cf2 \strokec2 "total_tax_set"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+        \cf2 \strokec2 "shop_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+          \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "11.94"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+        \},\
+        \cf2 \strokec2 "presentment_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+          \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "11.94"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+        \}\
+      \},\
+      \cf2 \strokec2 "admin_graphql_api_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "gid://shopify/Order/450789469"\cf4 \strokec4 ,\
+      \cf2 \strokec2 "line_items"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 [\
+        \{\
+          \cf2 \strokec2 "id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 466157049\cf4 \strokec4 ,\
+          \cf2 \strokec2 "variant_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 39072856\cf4 \strokec4 ,\
+          \cf2 \strokec2 "title"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "IPod Nano - 8gb"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "quantity"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 1\cf4 \strokec4 ,\
+          \cf2 \strokec2 "sku"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "IPOD2008GREEN"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "variant_title"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "green"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "vendor"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+          \cf2 \strokec2 "fulfillment_service"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "manual"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "product_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 632910392\cf4 \strokec4 ,\
+          \cf2 \strokec2 "requires_shipping"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 true\cf4 \strokec4 ,\
+          \cf2 \strokec2 "taxable"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 true\cf4 \strokec4 ,\
+          \cf2 \strokec2 "gift_card"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 false\cf4 \strokec4 ,\
+          \cf2 \strokec2 "name"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "IPod Nano - 8gb - green"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "variant_inventory_management"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "shopify"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "properties"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 [\
+            \{\
+              \cf2 \strokec2 "name"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "Custom Engraving Front"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "value"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "Happy Birthday"\cf4 \strokec4 \
+            \},\
+            \{\
+              \cf2 \strokec2 "name"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "Custom Engraving Back"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "value"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "Merry Christmas"\cf4 \strokec4 \
+            \}\
+          ],\
+          \cf2 \strokec2 "product_exists"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 true\cf4 \strokec4 ,\
+          \cf2 \strokec2 "fulfillable_quantity"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 1\cf4 \strokec4 ,\
+          \cf2 \strokec2 "grams"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 200\cf4 \strokec4 ,\
+          \cf2 \strokec2 "price"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "199.00"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "total_discount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "0.00"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "fulfillment_status"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+          \cf2 \strokec2 "price_set"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+            \cf2 \strokec2 "shop_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+              \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "199.00"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+            \},\
+            \cf2 \strokec2 "presentment_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+              \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "199.00"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+            \}\
+          \},\
+          \cf2 \strokec2 "total_discount_set"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+            \cf2 \strokec2 "shop_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+              \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "0.00"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+            \},\
+            \cf2 \strokec2 "presentment_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+              \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "0.00"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+            \}\
+          \},\
+          \cf2 \strokec2 "discount_allocations"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 [],\
+          \cf2 \strokec2 "admin_graphql_api_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "gid://shopify/LineItem/466157049"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "tax_lines"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 [\
+            \{\
+              \cf2 \strokec2 "title"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "State Tax"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "price"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "3.98"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "rate"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 0.06\cf4 \strokec4 ,\
+              \cf2 \strokec2 "price_set"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                \cf2 \strokec2 "shop_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                  \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "3.98"\cf4 \strokec4 ,\
+                  \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+                \},\
+                \cf2 \strokec2 "presentment_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                  \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "3.98"\cf4 \strokec4 ,\
+                  \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+                \}\
+              \}\
+            \}\
+          ]\
+        \},\
+        \{\
+          \cf2 \strokec2 "id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 518995019\cf4 \strokec4 ,\
+          \cf2 \strokec2 "variant_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 49148385\cf4 \strokec4 ,\
+          \cf2 \strokec2 "title"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "IPod Nano - 8gb"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "quantity"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 1\cf4 \strokec4 ,\
+          \cf2 \strokec2 "sku"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "IPOD2008RED"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "variant_title"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "red"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "vendor"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+          \cf2 \strokec2 "fulfillment_service"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "manual"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "product_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 632910392\cf4 \strokec4 ,\
+          \cf2 \strokec2 "requires_shipping"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 true\cf4 \strokec4 ,\
+          \cf2 \strokec2 "taxable"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 true\cf4 \strokec4 ,\
+          \cf2 \strokec2 "gift_card"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 false\cf4 \strokec4 ,\
+          \cf2 \strokec2 "name"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "IPod Nano - 8gb - red"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "variant_inventory_management"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "shopify"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "properties"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 [],\
+          \cf2 \strokec2 "product_exists"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 true\cf4 \strokec4 ,\
+          \cf2 \strokec2 "fulfillable_quantity"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 1\cf4 \strokec4 ,\
+          \cf2 \strokec2 "grams"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 200\cf4 \strokec4 ,\
+          \cf2 \strokec2 "price"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "199.00"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "total_discount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "0.00"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "fulfillment_status"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+          \cf2 \strokec2 "price_set"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+            \cf2 \strokec2 "shop_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+              \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "199.00"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+            \},\
+            \cf2 \strokec2 "presentment_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+              \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "199.00"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+            \}\
+          \},\
+          \cf2 \strokec2 "total_discount_set"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+            \cf2 \strokec2 "shop_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+              \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "0.00"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+            \},\
+            \cf2 \strokec2 "presentment_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+              \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "0.00"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+            \}\
+          \},\
+          \cf2 \strokec2 "discount_allocations"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 [],\
+          \cf2 \strokec2 "admin_graphql_api_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "gid://shopify/LineItem/518995019"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "tax_lines"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 [\
+            \{\
+              \cf2 \strokec2 "title"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "State Tax"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "price"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "3.98"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "rate"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 0.06\cf4 \strokec4 ,\
+              \cf2 \strokec2 "price_set"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                \cf2 \strokec2 "shop_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                  \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "3.98"\cf4 \strokec4 ,\
+                  \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+                \},\
+                \cf2 \strokec2 "presentment_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                  \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "3.98"\cf4 \strokec4 ,\
+                  \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+                \}\
+              \}\
+            \}\
+          ]\
+        \},\
+        \{\
+          \cf2 \strokec2 "id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 703073504\cf4 \strokec4 ,\
+          \cf2 \strokec2 "variant_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 457924702\cf4 \strokec4 ,\
+          \cf2 \strokec2 "title"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "IPod Nano - 8gb"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "quantity"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 1\cf4 \strokec4 ,\
+          \cf2 \strokec2 "sku"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "IPOD2008BLACK"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "variant_title"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "black"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "vendor"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+          \cf2 \strokec2 "fulfillment_service"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "manual"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "product_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 632910392\cf4 \strokec4 ,\
+          \cf2 \strokec2 "requires_shipping"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 true\cf4 \strokec4 ,\
+          \cf2 \strokec2 "taxable"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 true\cf4 \strokec4 ,\
+          \cf2 \strokec2 "gift_card"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 false\cf4 \strokec4 ,\
+          \cf2 \strokec2 "name"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "IPod Nano - 8gb - black"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "variant_inventory_management"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "shopify"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "properties"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 [],\
+          \cf2 \strokec2 "product_exists"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 true\cf4 \strokec4 ,\
+          \cf2 \strokec2 "fulfillable_quantity"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 1\cf4 \strokec4 ,\
+          \cf2 \strokec2 "grams"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 200\cf4 \strokec4 ,\
+          \cf2 \strokec2 "price"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "199.00"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "total_discount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "0.00"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "fulfillment_status"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+          \cf2 \strokec2 "price_set"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+            \cf2 \strokec2 "shop_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+              \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "199.00"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+            \},\
+            \cf2 \strokec2 "presentment_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+              \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "199.00"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+            \}\
+          \},\
+          \cf2 \strokec2 "total_discount_set"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+            \cf2 \strokec2 "shop_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+              \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "0.00"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+            \},\
+            \cf2 \strokec2 "presentment_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+              \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "0.00"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+            \}\
+          \},\
+          \cf2 \strokec2 "discount_allocations"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 [],\
+          \cf2 \strokec2 "admin_graphql_api_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "gid://shopify/LineItem/703073504"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "tax_lines"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 [\
+            \{\
+              \cf2 \strokec2 "title"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "State Tax"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "price"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "3.98"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "rate"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 0.06\cf4 \strokec4 ,\
+              \cf2 \strokec2 "price_set"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                \cf2 \strokec2 "shop_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                  \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "3.98"\cf4 \strokec4 ,\
+                  \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+                \},\
+                \cf2 \strokec2 "presentment_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                  \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "3.98"\cf4 \strokec4 ,\
+                  \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+                \}\
+              \}\
+            \}\
+          ]\
+        \}\
+      ],\
+      \cf2 \strokec2 "shipping_lines"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 [\
+        \{\
+          \cf2 \strokec2 "id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 369256396\cf4 \strokec4 ,\
+          \cf2 \strokec2 "title"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "Free Shipping"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "price"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "0.00"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "Free Shipping"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "source"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "shopify"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "phone"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+          \cf2 \strokec2 "requested_fulfillment_service_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+          \cf2 \strokec2 "delivery_category"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+          \cf2 \strokec2 "carrier_identifier"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+          \cf2 \strokec2 "discounted_price"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "0.00"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "price_set"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+            \cf2 \strokec2 "shop_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+              \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "0.00"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+            \},\
+            \cf2 \strokec2 "presentment_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+              \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "0.00"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+            \}\
+          \},\
+          \cf2 \strokec2 "discounted_price_set"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+            \cf2 \strokec2 "shop_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+              \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "0.00"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+            \},\
+            \cf2 \strokec2 "presentment_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+              \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "0.00"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+            \}\
+          \},\
+          \cf2 \strokec2 "discount_allocations"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 [],\
+          \cf2 \strokec2 "tax_lines"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 []\
+        \}\
+      ],\
+      \cf2 \strokec2 "billing_address"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+        \cf2 \strokec2 "first_name"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "Bob"\cf4 \strokec4 ,\
+        \cf2 \strokec2 "address1"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "Chestnut Street 92"\cf4 \strokec4 ,\
+        \cf2 \strokec2 "phone"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "555-625-1199"\cf4 \strokec4 ,\
+        \cf2 \strokec2 "city"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "Louisville"\cf4 \strokec4 ,\
+        \cf2 \strokec2 "zip"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "40202"\cf4 \strokec4 ,\
+        \cf2 \strokec2 "province"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "Kentucky"\cf4 \strokec4 ,\
+        \cf2 \strokec2 "country"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "United States"\cf4 \strokec4 ,\
+        \cf2 \strokec2 "last_name"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "Norman"\cf4 \strokec4 ,\
+        \cf2 \strokec2 "address2"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 ""\cf4 \strokec4 ,\
+        \cf2 \strokec2 "company"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+        \cf2 \strokec2 "latitude"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 45.41634\cf4 \strokec4 ,\
+        \cf2 \strokec2 "longitude"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 -75.6868\cf4 \strokec4 ,\
+        \cf2 \strokec2 "name"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "Bob Norman"\cf4 \strokec4 ,\
+        \cf2 \strokec2 "country_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "US"\cf4 \strokec4 ,\
+        \cf2 \strokec2 "province_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "KY"\cf4 \strokec4 \
+      \},\
+      \cf2 \strokec2 "shipping_address"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+        \cf2 \strokec2 "first_name"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "Bob"\cf4 \strokec4 ,\
+        \cf2 \strokec2 "address1"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "Chestnut Street 92"\cf4 \strokec4 ,\
+        \cf2 \strokec2 "phone"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "555-625-1199"\cf4 \strokec4 ,\
+        \cf2 \strokec2 "city"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "Louisville"\cf4 \strokec4 ,\
+        \cf2 \strokec2 "zip"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "40202"\cf4 \strokec4 ,\
+        \cf2 \strokec2 "province"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "Kentucky"\cf4 \strokec4 ,\
+        \cf2 \strokec2 "country"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "United States"\cf4 \strokec4 ,\
+        \cf2 \strokec2 "last_name"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "Norman"\cf4 \strokec4 ,\
+        \cf2 \strokec2 "address2"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 ""\cf4 \strokec4 ,\
+        \cf2 \strokec2 "company"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+        \cf2 \strokec2 "latitude"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 45.41634\cf4 \strokec4 ,\
+        \cf2 \strokec2 "longitude"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 -75.6868\cf4 \strokec4 ,\
+        \cf2 \strokec2 "name"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "Bob Norman"\cf4 \strokec4 ,\
+        \cf2 \strokec2 "country_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "US"\cf4 \strokec4 ,\
+        \cf2 \strokec2 "province_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "KY"\cf4 \strokec4 \
+      \},\
+      \cf2 \strokec2 "fulfillments"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 [\
+        \{\
+          \cf2 \strokec2 "id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 255858046\cf4 \strokec4 ,\
+          \cf2 \strokec2 "order_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 450789469\cf4 \strokec4 ,\
+          \cf2 \strokec2 "status"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "failure"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "created_at"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "2019-08-08T14:48:57-04:00"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "service"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "manual"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "updated_at"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "2019-08-08T14:48:57-04:00"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "tracking_company"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+          \cf2 \strokec2 "shipment_status"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+          \cf2 \strokec2 "location_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 905684977\cf4 \strokec4 ,\
+          \cf2 \strokec2 "tracking_number"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "1Z2345"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "tracking_numbers"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 [\
+            \cf2 \strokec2 "1Z2345"\cf4 \strokec4 \
+          ],\
+          \cf2 \strokec2 "tracking_url"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "https://www.ups.com/WebTracking?loc=en_US&requester=ST&trackNums=1Z2345"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "tracking_urls"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 [\
+            \cf2 \strokec2 "https://www.ups.com/WebTracking?loc=en_US&requester=ST&trackNums=1Z2345"\cf4 \strokec4 \
+          ],\
+          \cf2 \strokec2 "receipt"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+            \cf2 \strokec2 "testcase"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 true\cf4 \strokec4 ,\
+            \cf2 \strokec2 "authorization"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "123456"\cf4 \strokec4 \
+          \},\
+          \cf2 \strokec2 "name"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "#1001.0"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "admin_graphql_api_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "gid://shopify/Fulfillment/255858046"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "line_items"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 [\
+            \{\
+              \cf2 \strokec2 "id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 466157049\cf4 \strokec4 ,\
+              \cf2 \strokec2 "variant_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 39072856\cf4 \strokec4 ,\
+              \cf2 \strokec2 "title"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "IPod Nano - 8gb"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "quantity"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 1\cf4 \strokec4 ,\
+              \cf2 \strokec2 "sku"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "IPOD2008GREEN"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "variant_title"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "green"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "vendor"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+              \cf2 \strokec2 "fulfillment_service"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "manual"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "product_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 632910392\cf4 \strokec4 ,\
+              \cf2 \strokec2 "requires_shipping"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 true\cf4 \strokec4 ,\
+              \cf2 \strokec2 "taxable"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 true\cf4 \strokec4 ,\
+              \cf2 \strokec2 "gift_card"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 false\cf4 \strokec4 ,\
+              \cf2 \strokec2 "name"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "IPod Nano - 8gb - green"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "variant_inventory_management"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "shopify"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "properties"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 [\
+                \{\
+                  \cf2 \strokec2 "name"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "Custom Engraving Front"\cf4 \strokec4 ,\
+                  \cf2 \strokec2 "value"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "Happy Birthday"\cf4 \strokec4 \
+                \},\
+                \{\
+                  \cf2 \strokec2 "name"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "Custom Engraving Back"\cf4 \strokec4 ,\
+                  \cf2 \strokec2 "value"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "Merry Christmas"\cf4 \strokec4 \
+                \}\
+              ],\
+              \cf2 \strokec2 "product_exists"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 true\cf4 \strokec4 ,\
+              \cf2 \strokec2 "fulfillable_quantity"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 1\cf4 \strokec4 ,\
+              \cf2 \strokec2 "grams"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 200\cf4 \strokec4 ,\
+              \cf2 \strokec2 "price"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "199.00"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "total_discount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "0.00"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "fulfillment_status"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+              \cf2 \strokec2 "price_set"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                \cf2 \strokec2 "shop_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                  \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "199.00"\cf4 \strokec4 ,\
+                  \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+                \},\
+                \cf2 \strokec2 "presentment_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                  \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "199.00"\cf4 \strokec4 ,\
+                  \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+                \}\
+              \},\
+              \cf2 \strokec2 "total_discount_set"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                \cf2 \strokec2 "shop_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                  \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "0.00"\cf4 \strokec4 ,\
+                  \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+                \},\
+                \cf2 \strokec2 "presentment_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                  \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "0.00"\cf4 \strokec4 ,\
+                  \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+                \}\
+              \},\
+              \cf2 \strokec2 "discount_allocations"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 [],\
+              \cf2 \strokec2 "admin_graphql_api_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "gid://shopify/LineItem/466157049"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "tax_lines"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 [\
+                \{\
+                  \cf2 \strokec2 "title"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "State Tax"\cf4 \strokec4 ,\
+                  \cf2 \strokec2 "price"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "3.98"\cf4 \strokec4 ,\
+                  \cf2 \strokec2 "rate"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 0.06\cf4 \strokec4 ,\
+                  \cf2 \strokec2 "price_set"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                    \cf2 \strokec2 "shop_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                      \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "3.98"\cf4 \strokec4 ,\
+                      \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+                    \},\
+                    \cf2 \strokec2 "presentment_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                      \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "3.98"\cf4 \strokec4 ,\
+                      \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+                    \}\
+                  \}\
+                \}\
+              ]\
+            \}\
+          ]\
+        \}\
+      ],\
+      \cf2 \strokec2 "client_details"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+        \cf2 \strokec2 "browser_ip"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "0.0.0.0"\cf4 \strokec4 ,\
+        \cf2 \strokec2 "accept_language"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+        \cf2 \strokec2 "user_agent"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+        \cf2 \strokec2 "session_hash"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+        \cf2 \strokec2 "browser_width"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+        \cf2 \strokec2 "browser_height"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 \
+      \},\
+      \cf2 \strokec2 "refunds"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 [\
+        \{\
+          \cf2 \strokec2 "id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 509562969\cf4 \strokec4 ,\
+          \cf2 \strokec2 "order_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 450789469\cf4 \strokec4 ,\
+          \cf2 \strokec2 "created_at"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "2019-08-08T14:48:57-04:00"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "note"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "it broke during shipping"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "user_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 799407056\cf4 \strokec4 ,\
+          \cf2 \strokec2 "processed_at"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "2019-08-08T14:48:57-04:00"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "restock"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 true\cf4 \strokec4 ,\
+          \cf2 \strokec2 "admin_graphql_api_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "gid://shopify/Refund/509562969"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "refund_line_items"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 [\
+            \{\
+              \cf2 \strokec2 "id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 104689539\cf4 \strokec4 ,\
+              \cf2 \strokec2 "quantity"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 1\cf4 \strokec4 ,\
+              \cf2 \strokec2 "line_item_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 703073504\cf4 \strokec4 ,\
+              \cf2 \strokec2 "location_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 487838322\cf4 \strokec4 ,\
+              \cf2 \strokec2 "restock_type"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "legacy_restock"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "subtotal"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 199.0\cf4 \strokec4 ,\
+              \cf2 \strokec2 "total_tax"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 3.98\cf4 \strokec4 ,\
+              \cf2 \strokec2 "subtotal_set"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                \cf2 \strokec2 "shop_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                  \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "199.00"\cf4 \strokec4 ,\
+                  \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+                \},\
+                \cf2 \strokec2 "presentment_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                  \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "199.00"\cf4 \strokec4 ,\
+                  \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+                \}\
+              \},\
+              \cf2 \strokec2 "total_tax_set"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                \cf2 \strokec2 "shop_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                  \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "3.98"\cf4 \strokec4 ,\
+                  \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+                \},\
+                \cf2 \strokec2 "presentment_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                  \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "3.98"\cf4 \strokec4 ,\
+                  \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+                \}\
+              \},\
+              \cf2 \strokec2 "line_item"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                \cf2 \strokec2 "id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 703073504\cf4 \strokec4 ,\
+                \cf2 \strokec2 "variant_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 457924702\cf4 \strokec4 ,\
+                \cf2 \strokec2 "title"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "IPod Nano - 8gb"\cf4 \strokec4 ,\
+                \cf2 \strokec2 "quantity"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 1\cf4 \strokec4 ,\
+                \cf2 \strokec2 "sku"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "IPOD2008BLACK"\cf4 \strokec4 ,\
+                \cf2 \strokec2 "variant_title"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "black"\cf4 \strokec4 ,\
+                \cf2 \strokec2 "vendor"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+                \cf2 \strokec2 "fulfillment_service"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "manual"\cf4 \strokec4 ,\
+                \cf2 \strokec2 "product_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 632910392\cf4 \strokec4 ,\
+                \cf2 \strokec2 "requires_shipping"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 true\cf4 \strokec4 ,\
+                \cf2 \strokec2 "taxable"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 true\cf4 \strokec4 ,\
+                \cf2 \strokec2 "gift_card"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 false\cf4 \strokec4 ,\
+                \cf2 \strokec2 "name"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "IPod Nano - 8gb - black"\cf4 \strokec4 ,\
+                \cf2 \strokec2 "variant_inventory_management"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "shopify"\cf4 \strokec4 ,\
+                \cf2 \strokec2 "properties"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 [],\
+                \cf2 \strokec2 "product_exists"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 true\cf4 \strokec4 ,\
+                \cf2 \strokec2 "fulfillable_quantity"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 1\cf4 \strokec4 ,\
+                \cf2 \strokec2 "grams"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 200\cf4 \strokec4 ,\
+                \cf2 \strokec2 "price"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "199.00"\cf4 \strokec4 ,\
+                \cf2 \strokec2 "total_discount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "0.00"\cf4 \strokec4 ,\
+                \cf2 \strokec2 "fulfillment_status"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+                \cf2 \strokec2 "price_set"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                  \cf2 \strokec2 "shop_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                    \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "199.00"\cf4 \strokec4 ,\
+                    \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+                  \},\
+                  \cf2 \strokec2 "presentment_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                    \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "199.00"\cf4 \strokec4 ,\
+                    \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+                  \}\
+                \},\
+                \cf2 \strokec2 "total_discount_set"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                  \cf2 \strokec2 "shop_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                    \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "0.00"\cf4 \strokec4 ,\
+                    \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+                  \},\
+                  \cf2 \strokec2 "presentment_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                    \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "0.00"\cf4 \strokec4 ,\
+                    \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+                  \}\
+                \},\
+                \cf2 \strokec2 "discount_allocations"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 [],\
+                \cf2 \strokec2 "admin_graphql_api_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "gid://shopify/LineItem/703073504"\cf4 \strokec4 ,\
+                \cf2 \strokec2 "tax_lines"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 [\
+                  \{\
+                    \cf2 \strokec2 "title"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "State Tax"\cf4 \strokec4 ,\
+                    \cf2 \strokec2 "price"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "3.98"\cf4 \strokec4 ,\
+                    \cf2 \strokec2 "rate"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 0.06\cf4 \strokec4 ,\
+                    \cf2 \strokec2 "price_set"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                      \cf2 \strokec2 "shop_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                        \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "3.98"\cf4 \strokec4 ,\
+                        \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+                      \},\
+                      \cf2 \strokec2 "presentment_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                        \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "3.98"\cf4 \strokec4 ,\
+                        \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+                      \}\
+                    \}\
+                  \}\
+                ]\
+              \}\
+            \},\
+            \{\
+              \cf2 \strokec2 "id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 709875399\cf4 \strokec4 ,\
+              \cf2 \strokec2 "quantity"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 1\cf4 \strokec4 ,\
+              \cf2 \strokec2 "line_item_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 466157049\cf4 \strokec4 ,\
+              \cf2 \strokec2 "location_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 487838322\cf4 \strokec4 ,\
+              \cf2 \strokec2 "restock_type"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "legacy_restock"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "subtotal"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 199.0\cf4 \strokec4 ,\
+              \cf2 \strokec2 "total_tax"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 3.98\cf4 \strokec4 ,\
+              \cf2 \strokec2 "subtotal_set"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                \cf2 \strokec2 "shop_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                  \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "199.00"\cf4 \strokec4 ,\
+                  \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+                \},\
+                \cf2 \strokec2 "presentment_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                  \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "199.00"\cf4 \strokec4 ,\
+                  \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+                \}\
+              \},\
+              \cf2 \strokec2 "total_tax_set"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                \cf2 \strokec2 "shop_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                  \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "3.98"\cf4 \strokec4 ,\
+                  \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+                \},\
+                \cf2 \strokec2 "presentment_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                  \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "3.98"\cf4 \strokec4 ,\
+                  \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+                \}\
+              \},\
+              \cf2 \strokec2 "line_item"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                \cf2 \strokec2 "id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 466157049\cf4 \strokec4 ,\
+                \cf2 \strokec2 "variant_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 39072856\cf4 \strokec4 ,\
+                \cf2 \strokec2 "title"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "IPod Nano - 8gb"\cf4 \strokec4 ,\
+                \cf2 \strokec2 "quantity"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 1\cf4 \strokec4 ,\
+                \cf2 \strokec2 "sku"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "IPOD2008GREEN"\cf4 \strokec4 ,\
+                \cf2 \strokec2 "variant_title"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "green"\cf4 \strokec4 ,\
+                \cf2 \strokec2 "vendor"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+                \cf2 \strokec2 "fulfillment_service"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "manual"\cf4 \strokec4 ,\
+                \cf2 \strokec2 "product_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 632910392\cf4 \strokec4 ,\
+                \cf2 \strokec2 "requires_shipping"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 true\cf4 \strokec4 ,\
+                \cf2 \strokec2 "taxable"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 true\cf4 \strokec4 ,\
+                \cf2 \strokec2 "gift_card"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 false\cf4 \strokec4 ,\
+                \cf2 \strokec2 "name"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "IPod Nano - 8gb - green"\cf4 \strokec4 ,\
+                \cf2 \strokec2 "variant_inventory_management"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "shopify"\cf4 \strokec4 ,\
+                \cf2 \strokec2 "properties"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 [\
+                  \{\
+                    \cf2 \strokec2 "name"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "Custom Engraving Front"\cf4 \strokec4 ,\
+                    \cf2 \strokec2 "value"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "Happy Birthday"\cf4 \strokec4 \
+                  \},\
+                  \{\
+                    \cf2 \strokec2 "name"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "Custom Engraving Back"\cf4 \strokec4 ,\
+                    \cf2 \strokec2 "value"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "Merry Christmas"\cf4 \strokec4 \
+                  \}\
+                ],\
+                \cf2 \strokec2 "product_exists"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 true\cf4 \strokec4 ,\
+                \cf2 \strokec2 "fulfillable_quantity"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 1\cf4 \strokec4 ,\
+                \cf2 \strokec2 "grams"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 200\cf4 \strokec4 ,\
+                \cf2 \strokec2 "price"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "199.00"\cf4 \strokec4 ,\
+                \cf2 \strokec2 "total_discount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "0.00"\cf4 \strokec4 ,\
+                \cf2 \strokec2 "fulfillment_status"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+                \cf2 \strokec2 "price_set"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                  \cf2 \strokec2 "shop_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                    \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "199.00"\cf4 \strokec4 ,\
+                    \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+                  \},\
+                  \cf2 \strokec2 "presentment_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                    \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "199.00"\cf4 \strokec4 ,\
+                    \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+                  \}\
+                \},\
+                \cf2 \strokec2 "total_discount_set"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                  \cf2 \strokec2 "shop_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                    \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "0.00"\cf4 \strokec4 ,\
+                    \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+                  \},\
+                  \cf2 \strokec2 "presentment_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                    \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "0.00"\cf4 \strokec4 ,\
+                    \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+                  \}\
+                \},\
+                \cf2 \strokec2 "discount_allocations"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 [],\
+                \cf2 \strokec2 "admin_graphql_api_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "gid://shopify/LineItem/466157049"\cf4 \strokec4 ,\
+                \cf2 \strokec2 "tax_lines"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 [\
+                  \{\
+                    \cf2 \strokec2 "title"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "State Tax"\cf4 \strokec4 ,\
+                    \cf2 \strokec2 "price"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "3.98"\cf4 \strokec4 ,\
+                    \cf2 \strokec2 "rate"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 0.06\cf4 \strokec4 ,\
+                    \cf2 \strokec2 "price_set"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                      \cf2 \strokec2 "shop_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                        \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "3.98"\cf4 \strokec4 ,\
+                        \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+                      \},\
+                      \cf2 \strokec2 "presentment_money"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+                        \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "3.98"\cf4 \strokec4 ,\
+                        \cf2 \strokec2 "currency_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 \
+                      \}\
+                    \}\
+                  \}\
+                ]\
+              \}\
+            \}\
+          ],\
+          \cf2 \strokec2 "transactions"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 [\
+            \{\
+              \cf2 \strokec2 "id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 179259969\cf4 \strokec4 ,\
+              \cf2 \strokec2 "order_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 450789469\cf4 \strokec4 ,\
+              \cf2 \strokec2 "kind"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "refund"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "gateway"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "bogus"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "status"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "success"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "message"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+              \cf2 \strokec2 "created_at"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "2005-08-05T12:59:12-04:00"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "test"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 false\cf4 \strokec4 ,\
+              \cf2 \strokec2 "authorization"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "authorization-key"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "location_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+              \cf2 \strokec2 "user_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+              \cf2 \strokec2 "parent_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 801038806\cf4 \strokec4 ,\
+              \cf2 \strokec2 "processed_at"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "2005-08-05T12:59:12-04:00"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "device_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+              \cf2 \strokec2 "receipt"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\},\
+              \cf2 \strokec2 "error_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+              \cf2 \strokec2 "source_name"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "web"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "amount"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "209.00"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "currency"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 ,\
+              \cf2 \strokec2 "admin_graphql_api_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "gid://shopify/OrderTransaction/179259969"\cf4 \strokec4 \
+            \}\
+          ],\
+          \cf2 \strokec2 "order_adjustments"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 []\
+        \}\
+      ],\
+      \cf2 \strokec2 "payment_details"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+        \cf2 \strokec2 "credit_card_bin"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+        \cf2 \strokec2 "avs_result_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+        \cf2 \strokec2 "cvv_result_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+        \cf2 \strokec2 "credit_card_number"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "\'95\'95\'95\'95 \'95\'95\'95\'95 \'95\'95\'95\'95 4242"\cf4 \strokec4 ,\
+        \cf2 \strokec2 "credit_card_company"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "Visa"\cf4 \strokec4 \
+      \},\
+      \cf2 \strokec2 "customer"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+        \cf2 \strokec2 "id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 207119551\cf4 \strokec4 ,\
+        \cf2 \strokec2 "email"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "bob.norman@hostmail.com"\cf4 \strokec4 ,\
+        \cf2 \strokec2 "accepts_marketing"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 false\cf4 \strokec4 ,\
+        \cf2 \strokec2 "created_at"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "2019-08-08T14:48:57-04:00"\cf4 \strokec4 ,\
+        \cf2 \strokec2 "updated_at"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "2019-08-08T14:48:57-04:00"\cf4 \strokec4 ,\
+        \cf2 \strokec2 "first_name"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "Bob"\cf4 \strokec4 ,\
+        \cf2 \strokec2 "last_name"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "Norman"\cf4 \strokec4 ,\
+        \cf2 \strokec2 "orders_count"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 1\cf4 \strokec4 ,\
+        \cf2 \strokec2 "state"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "disabled"\cf4 \strokec4 ,\
+        \cf2 \strokec2 "total_spent"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "199.65"\cf4 \strokec4 ,\
+        \cf2 \strokec2 "last_order_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 450789469\cf4 \strokec4 ,\
+        \cf2 \strokec2 "note"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+        \cf2 \strokec2 "verified_email"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 true\cf4 \strokec4 ,\
+        \cf2 \strokec2 "multipass_identifier"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+        \cf2 \strokec2 "tax_exempt"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 false\cf4 \strokec4 ,\
+        \cf2 \strokec2 "phone"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+        \cf2 \strokec2 "tags"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 ""\cf4 \strokec4 ,\
+        \cf2 \strokec2 "last_order_name"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "#1001"\cf4 \strokec4 ,\
+        \cf2 \strokec2 "currency"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "USD"\cf4 \strokec4 ,\
+        \cf2 \strokec2 "accepts_marketing_updated_at"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "2005-06-12T11:57:11-04:00"\cf4 \strokec4 ,\
+        \cf2 \strokec2 "marketing_opt_in_level"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+        \cf2 \strokec2 "tax_exemptions"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 [],\
+        \cf2 \strokec2 "admin_graphql_api_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "gid://shopify/Customer/207119551"\cf4 \strokec4 ,\
+        \cf2 \strokec2 "default_address"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf4 \strokec4 \{\
+          \cf2 \strokec2 "id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 207119551\cf4 \strokec4 ,\
+          \cf2 \strokec2 "customer_id"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 207119551\cf4 \strokec4 ,\
+          \cf2 \strokec2 "first_name"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+          \cf2 \strokec2 "last_name"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+          \cf2 \strokec2 "company"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 null\cf4 \strokec4 ,\
+          \cf2 \strokec2 "address1"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "Chestnut Street 92"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "address2"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 ""\cf4 \strokec4 ,\
+          \cf2 \strokec2 "city"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "Louisville"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "province"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "Kentucky"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "country"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "United States"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "zip"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "40202"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "phone"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "555-625-1199"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "name"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 ""\cf4 \strokec4 ,\
+          \cf2 \strokec2 "province_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "KY"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "country_code"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "US"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "country_name"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf2 \strokec2 "United States"\cf4 \strokec4 ,\
+          \cf2 \strokec2 "default"
+\f1\b \cf3 \strokec3 : 
+\f0\b0 \cf5 \strokec5 true\cf4 \strokec4 \
+        \}\
+      \}\
+    \}\
+  ]\
+\}\
+}
